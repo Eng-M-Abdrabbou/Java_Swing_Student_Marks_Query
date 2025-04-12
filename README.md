@@ -46,9 +46,9 @@ Student_Marks_Query/
 
 ## Screenshots
 
-![Screenshot](\Images\1.png)
+![Screenshot](/Images/1.png)
 
-![Screenshot](\Images\2.png)
+![Screenshot](/Images/2.png)
 
 ## Contributions
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
