@@ -31,6 +31,7 @@ The application expects a CSV file (`ass2_student_results.csv`) with the followi
 - **Programming Language**: Java
 - **UI Framework**: Java Swing
 - **Look and Feel**: Nimbus
+- **IDE Used**: NetBeans 8.2
 
 ## Project Structure
 ```
